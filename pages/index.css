@@ -2,10 +2,10 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__section/page__section.css);
-@import url(../blocks/page/__section/_size/page__section_size_xl.css);
-@import url(../blocks/page/__section/_size/page__section_size_l.css);
-@import url(../blocks/page/__section/_size/page__section_size_m.css);
-@import url(../blocks/page/__section/_size/page__section_size_s.css);
+@import url(../blocks/page/__section/_xl/page__section_xl_narrow.css);
+@import url(../blocks/page/__section/_lg/page__section_lg_wide.css);
+@import url(../blocks/page/__section/_md/page__section_md_wide.css);
+@import url(../blocks/page/__section/_sm/page__section_sm_wide.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
