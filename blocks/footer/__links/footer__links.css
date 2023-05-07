@@ -5,7 +5,11 @@
     padding: 0;
     list-style: none;
     gap: 18px;
-}
+    transition: opacity 0.3s linear;
+  }
+  .footer__links:hover{
+    opacity: 0.8;
+  }
 @media screen and (max-width: 767px) {
     .footer__links {
         flex-direction: column;
